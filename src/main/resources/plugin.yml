@@ -1,0 +1,4 @@
+name: NoJoinLeaveMessage
+version: '1.0-SNAPSHOT'
+main: seml.noJoinLeaveMessage.NoJoinLeaveMessage
+api-version: '1.21'
